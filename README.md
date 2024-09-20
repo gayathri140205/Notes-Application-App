@@ -16,4 +16,4 @@ Technologies Used:
 React.js: JavaScript library for building user interfaces.
 CSS: Styling for the application to create a colorful and responsive layout.
 
-Deployed Link:
+Deployed Link:https://notes-application-app.vercel.app/
